@@ -1,5 +1,3 @@
-use std::fmt::Display;
-
 use num::traits::Num;
 use num::ToPrimitive;
 
